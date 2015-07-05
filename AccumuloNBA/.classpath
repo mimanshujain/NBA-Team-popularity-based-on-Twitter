@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/sujoy/Desktop/CS587_DIC/PA5/accumulo-core-1.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sujoy/Desktop/CS587_DIC/PA5/commons-cli-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sujoy/Desktop/CS587_DIC/PA5/hadoop-common-2.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sujoy/Desktop/CS587_DIC/PA5/hadoop-mapreduce-client-core-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/sherlock/Dropbox/SecondSem/GitHandle/NBA-Team-popularity-based-on-Twitter/AccumuloNBA/lib/accumulo-core-1.4.2.jar"/>
+	<classpathentry kind="lib" path="/home/sherlock/Dropbox/SecondSem/GitHandle/NBA-Team-popularity-based-on-Twitter/AccumuloNBA/lib/commons-cli-2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sherlock/Dropbox/SecondSem/GitHandle/NBA-Team-popularity-based-on-Twitter/AccumuloNBA/lib/hadoop-common-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/sherlock/Dropbox/SecondSem/GitHandle/NBA-Team-popularity-based-on-Twitter/AccumuloNBA/lib/hadoop-mapreduce-client-core-2.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
