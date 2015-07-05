@@ -1,4 +1,5 @@
-# NBA-Team-popularity-based-on-Twitter
+## Popularity Analysis of NBA teams using Twitter Data
 
-In this project I used Twitter API to collect data of 30 NBA teams, and store the data in CSV format (comma separated) on your my local machine. 
-Accumulo was utilized to create table and compute the popularity of NBA teams based on the collected data.
+* Collected data for 30 NBA teams in csv format using Twitter Search API using the team specific hashtags. (Python)
+* Created users and tables with region specific Visibility, Authorizations, and Permissions in Accumulo.
+* Calculated popularity using based on the positive and negative unigrams count using the Accumulo Mapreduce Computation.
